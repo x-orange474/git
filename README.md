@@ -1,2 +1,2 @@
 # git
-try git
+try git ...
